@@ -1,0 +1,26 @@
+/*---------- HTML selectors -----------*/
+ul {
+    list-style: none;
+}
+
+ul li:first-child {
+    display: block;
+}
+
+ul li {
+    display: none;
+}
+
+ul li a {
+    display: block;
+    padding: 10px;
+    text-decoration: none;
+}
+
+
+/* ---------class selectors-------------- */
+.show li {
+    display: block;
+}
+
+/* ------------------id selectors -----------------*/
