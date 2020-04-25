@@ -1,0 +1,37 @@
+/*---------- HTML selectors -----------*/
+ul {
+    list-style: none;
+}
+
+ul li:first-child {
+    display: block;
+}
+
+ul li {
+    display: none;
+}
+
+ul li a {
+    display: block;
+    padding: 10px;
+    text-decoration: none;
+}
+
+/* -------------header---------------*/
+
+header {
+    background-color: #A0DDFF;
+    padding: .75em;
+    text-align: center;
+    font-family: 'Source Sans Pro', sans-serif;
+    color:#0E3C56;
+    font-size: 25pt;
+}
+
+
+/* ---------class selectors-------------- */
+.show li {
+    display: block;
+}
+
+/* ------------------id selectors -----------------*/
