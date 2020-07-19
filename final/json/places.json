@@ -1,0 +1,130 @@
+[
+    {
+    "place": "Yellowstone Bear World",
+    "address": {
+        "streetAddress": "4300 W",
+        "city": "Rexburg",
+        "state": "ID",
+        "postalCode": "83440"
+    },
+    "hours": {
+        "Opening": "8am",
+        "Closing": "6pm"
+    },
+    "image": "images/bearworld.jpg",
+    "phoneNumbers": [
+        { "type": "home", "number": "7383627627" }
+    ]
+},
+{
+    "place": "Rexburg Nature Park",
+    "address": {
+        "streetAddress": "5th West and 3rd North",
+        "city": "Rexburg",
+        "state": "ID",
+        "postalCode": "83440"
+    },
+    "hours": {
+        "Opening": "All Day"
+    }
+},
+{
+    "place": "Fat Cats",
+    "address": {
+        "streetAddress": "475 N 2nd E St",
+        "city": "Rexburg",
+        "state": "ID",
+        "postalCode": "83440"
+    },
+    "hours": {
+        "Opening": "11am",
+        "Closing": "11pm"
+    },
+    "phoneNumbers": [
+        { "type": "", "number": "7383627627" }
+    ]
+},
+{
+    "place": "Fairland",
+    "address": {
+        "streetAddress": "220 E 2nd N Ste.",
+        "city": "Rexburg",
+        "state": "ID",
+        "postalCode": "83440"
+    },
+    "hours": {
+        "Opening": "3pm",
+        "Closing": "10:30pm"
+    },
+    "image": "images/fair-lands.jpg",
+    "phoneNumbers": [
+        { "type": "home", "number": "7383627627" }
+    ]
+},
+{
+    "place": "BOBA LUV",
+    "address": {
+        "streetAddress": "220 E 2nd N Ste.4",
+        "city": "Rexburg",
+        "state": "ID",
+        "postalCode": "83440"
+    },
+    "hours": {
+        "Opening": "2pm",
+        "Closing": "10pm"
+    },
+    "image": "images/boba.jpg",
+    "phoneNumbers": [
+        { "type": "home", "number": "7383627627" }
+    ]
+},
+{
+    "place": "Adam's Mongolian Grill",
+    "address": {
+        "streetAddress": "505 N 2nd E #103b",
+        "city": "Rexburg",
+        "state": "ID",
+        "postalCode": "83440"
+    },
+    "hours": {
+        "Opening": "11am",
+        "Closing": "9:30pm"
+    },
+    "image": "images/bbq.jpg",
+    "phoneNumbers": [
+        { "type": "home", "number": "7383627627" }
+    ]
+},
+{
+    "place": "Craze Fun Zone",
+    "address": {
+        "streetAddress": "30 College Ave #101",
+        "city": "Rexburg",
+        "state": "ID",
+        "postalCode": "83440"
+    },
+    "hours": {
+        "Opening": "11am",
+        "Closing": "10pm"
+    },
+    "image": "images/bbq.jpg",
+    "phoneNumbers": [
+        { "type": "home", "number": "7383627627" }
+    ]
+},
+{
+    "place": "Hike R Mountain!",
+    "address": {
+        "streetAddress": "1098 Twin Butte Rd",
+        "city": "Rexburg",
+        "state": "ID",
+        "postalCode": "83440"
+    },
+    "hours": {
+        "Opening": "All Day"
+    },
+    "image": "images/R-Mountain.jpg",
+    "phoneNumbers": [
+        { "type": "home", "number": "7383627627" }
+    ]
+}]
